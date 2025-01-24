@@ -2,8 +2,6 @@
 
 # Habib University Student Attendance App Manual
 
-## powered by _Office of Institutional Research_
-
 Welcome to the Habib University Student Attendance App! This guide provides a comprehensive overview to help you navigate the app. For further assistance or to report any issues, please contact the Habib University IT Help Desk.
 
 ## App Access:
